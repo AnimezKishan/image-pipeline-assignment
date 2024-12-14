@@ -15,7 +15,7 @@ A React-based web application that allows users to upload images, create masks b
 
 1. Clone the repository by running the following command in your terminal
 ```
-git clone [your-repository-url]
+git clone https://github.com/AnimezKishan/image-pipeline-assignment.git
 ```
 2. Navigate to the project directory
 ```
